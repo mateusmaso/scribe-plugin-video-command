@@ -1,2 +1,2 @@
-scribe-plugin-video-command.js
-==============================
+scribe-plugin-video-command
+===========================
